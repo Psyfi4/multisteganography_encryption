@@ -2,7 +2,6 @@ import streamlit as st
 import io
 from PIL import Image
 import numpy as np
-import cv2
 import PyPDF2
 import pydub
 import tempfile
