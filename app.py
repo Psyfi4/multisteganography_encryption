@@ -3,6 +3,7 @@ import io
 from PIL import Image
 import numpy as np
 import PyPDF2
+import cv2
 import pydub
 import tempfile
 import os
